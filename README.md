@@ -1,6 +1,6 @@
 # Avinash S
 
-**`Engineer`**<br/>
+**`Engineer`** ![](https://komarev.com/ghpvc/?username=Hunter305)<br/>
 A Fullstack Web developer, my expertise lies in creating seamless and intuitive user experiences. I specialize in using cutting-edge technologies to produce high-quality web applications. Specifically, I have vast knowledge of ReactJS and NodeJS, which allow me to build complex and dynamic applications with ease.
 
 ---
