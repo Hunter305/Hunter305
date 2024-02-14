@@ -25,6 +25,6 @@ A Fullstack Web developer, my expertise lies in creating seamless and intuitive 
 
 ### Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter305&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter305&show_icons=true&theme=gruvbox&random=12345)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter305&theme=gruvbox)
