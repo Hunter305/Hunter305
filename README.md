@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Hunter305&color=f5b92e)
 
-**`Engineer`**<br/>
-A Fullstack Web developer, my expertise lies in creating seamless and intuitive user experiences. I specialize in using cutting-edge technologies to produce high-quality web applications. Specifically, I have vast knowledge of ReactJS and NodeJS, which allow me to build complex and dynamic applications with ease.
+**`Engineer`**<br/> A Fullstack Web developer, my expertise lies in creating seamless and intuitive user experiences. I specialize in using cutting-edge technologies to produce high-quality web applications. Specifically, I have vast knowledge of ReactJS and NodeJS, which allow me to build complex and dynamic applications with ease.
 
 ---
 
@@ -24,9 +23,12 @@ A Fullstack Web developer, my expertise lies in creating seamless and intuitive 
 <br />
 
 ### Stats
+
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=hunter305&show_icons=true&locale=en&theme=transparent&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hunter305&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter305&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter305&show_icons=true&theme=gruvbox)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter305&theme=gruvbox) -->
