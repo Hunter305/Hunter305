@@ -22,14 +22,22 @@
 
 <br />
 
-### Stats
+<!-- ### Stats -->
 
-<div align="center">
+<!-- <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=hunter305&show_icons=true&locale=en&theme=transparent&rank_icon=percentile&include_all_commits=true&hide_border=true" />
-   <!-- <img src="https://github-readme-stats.vercel.app/api?username=hunter305&custom_title=Avinash's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="Avinash" /> -->
+   <img src="https://github-readme-stats.vercel.app/api?username=hunter305&custom_title=Avinash's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="Avinash" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hunter305&show_icons=true&locale=en&layout=compact&theme=gotham&hide_border=true" />
-  
-</div>
+
+</div> -->
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=hunter305&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=hunter305&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=hunter305&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunter305&show_icons=true&theme=gruvbox) -->
 
