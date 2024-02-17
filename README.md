@@ -33,7 +33,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hunter305&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=hunter305&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hunter305&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=hunter305&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api?username=hunter305&custom_title=Avinash's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="Avinash" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunter305&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
+</div>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hunter305&theme=dark&hide_border=false)<br/> ![]()
 
 ### 🏆 GitHub Trophies
 
